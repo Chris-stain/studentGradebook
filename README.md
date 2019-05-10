@@ -1,2 +1,3 @@
 # studentGradebook
-473 HW #2 
+
+A Student gradebook web application for CPSC 473 Front-End Engineering 
